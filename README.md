@@ -7,26 +7,22 @@
 
 # Olá! Eu sou Jonathan Alessandro 👋
 
-Sou desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas (ADS).
+Sou desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas (ADS), com experiência em desenvolvimento de aplicações web e mobile, integrações de APIs, automação e inteligência artificial.
 
-Tenho interesse em desenvolvimento de aplicações, integrações entre APIs, automação de processos e inteligência artificial.
+Tenho interesse em construir soluções completas, desde a organização da arquitetura e comunicação entre sistemas até a implementação, testes e manutenção.
 
-Busco transformar ideias em soluções funcionais, explorando novas tecnologias e aprimorando constantemente meus conhecimentos em desenvolvimento de software.
+Utilizo ferramentas de inteligência artificial como parte do meu processo de desenvolvimento, combinando automação e revisão técnica para criar aplicações funcionais e resolver problemas reais.
 
 </div>
 
 ---
 
-## 🛠️ Minhas ferramentas e tecnologias favoritas
+## ⚙️ Minhas ferramentas e tecnologias favoritas
 
-> Tecnologias e ferramentas que fazem parte dos meus projetos e estudos.
+> Tecnologias e ferramentas que utilizo ou com as quais tenho experiência nos meus projetos.
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
@@ -34,6 +30,10 @@ Busco transformar ideias em soluções funcionais, explorando novas tecnologias 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -46,89 +46,114 @@ Busco transformar ideias em soluções funcionais, explorando novas tecnologias 
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
-      <br>REST API
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+      <br>React Native
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=expo" width="48" height="48" alt="Expo" />
+      <br>Expo
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
   </tr>
 </table>
+
+### 🔗 Integrações e ferramentas
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
+
+</div>
+
+- REST APIs e integração entre sistemas
+- tRPC
+- Drizzle ORM
+- AWS S3
+- WhatsApp e Baileys
+- Meta WhatsApp API
+- React Native WebRTC
+- Vitest
+- esbuild
+- pnpm
 
 ---
 
 ## 👨‍💻 Sobre mim
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS).
-- 📚 Atualmente aprimorando meus conhecimentos em desenvolvimento de software.
-- 🔗 Interesse em integrações de APIs e comunicação entre sistemas.
-- 🤖 Desenvolvimento de soluções utilizando inteligência artificial.
-- ⚙️ Automação de processos e organização de fluxos de dados.
-- 🌐 Desenvolvimento de aplicações web e interfaces com React.
-- 🚀 Interesse em criar produtos e soluções tecnológicas.
+- 📚 Aprimoramento contínuo em desenvolvimento de software.
+- 🔗 Integração entre APIs e sistemas.
+- 🤖 Inteligência artificial aplicada a soluções reais.
+- ⚙️ Automação de processos e comunicação entre serviços.
+- 🌐 Desenvolvimento web com React, Vite e Tailwind CSS.
+- 📱 Desenvolvimento mobile com React Native e Expo.
+- 🗄️ Experiência com bancos de dados relacionais e Redis.
+- 🐳 Containerização e organização de ambientes com Docker.
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos e experiências
 
-### 📊 Enriquecer_Base
+### 🤖 Central WhatsApp — Liberty
 
-Automação para adquirir e-mails e domínios de contato utilizando CNPJ como base da busca.
+Aplicação web e backend para gerenciamento de atendimento e comunicação via WhatsApp.
 
-**Tecnologia:** Python
+- Backend em Node.js e Express.
+- Frontend em React e Vite.
+- API compartilhada com tRPC.
+- Persistência de dados com MySQL e Drizzle ORM.
+- Redis para comunicação entre processos e filas de trabalho.
+- Integração com WhatsApp e Baileys.
+- Integrações com serviços de armazenamento S3.
+- Docker para execução dos serviços.
 
-### 🛒 Mercado Scraper
+### 📱 Liberty App
 
-Automação para navegar em sites de mercados, coletar produtos e preços e armazenar os dados para futura comparação.
+Aplicativo mobile desenvolvido com React Native e Expo.
 
-**Tecnologia:** JavaScript
+- React Native e Expo.
+- TypeScript.
+- React Native WebRTC.
+- Notificações e recursos nativos.
+- Suporte a Android, iOS e Web.
+- Build e execução com Docker e Nginx para a versão web.
 
-### 🤖 Liberty IA Chat
+### 🔗 Integrações e automações
 
-Inteligência artificial para responder dúvidas sobre planos de saúde com base em documentos de treinamento.
-
-**Tecnologia:** TypeScript
-
-### 🔧 Central App
-
-Versão simplificada e pública de outra aplicação. A versão completa está disponível em um repositório privado.
-
-**Tecnologia:** TypeScript
-
-### 🧠 CompraSmart Backend
-
-Núcleo do projeto CompraSmart, utilizando dados do Mercado Scraper e integrando funcionalidades próprias, como criação de receitas, alertas e alertas alérgicos por meio de APIs externas.
-
-**Tecnologia:** JavaScript
-
-### 💻 CompraSmart Front
-
-Frontend em React criado para apresentar o Mercado Scraper e o projeto CompraSmart.
-
-**Tecnologia:** JavaScript · React
+Experiência com desenvolvimento de soluções que conectam APIs, processam dados e automatizam tarefas, buscando melhorar fluxos de trabalho e comunicação entre sistemas.
 
 ---
 
