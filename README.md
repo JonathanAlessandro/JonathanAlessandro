@@ -3,24 +3,17 @@
   <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Olá! Eu sou Jonathan Alessandro" />
 </div>
 
-<div align="justify">
-
-# Olá! Eu sou Jonathan Alessandro 👋
-
-Sou desenvolvedor de software, formado em Análise e Desenvolvimento de Sistemas (ADS), com experiência em desenvolvimento de aplicações web e mobile, integrações de APIs, automação e inteligência artificial.
-
-Tenho interesse em construir soluções completas, desde a organização da arquitetura e comunicação entre sistemas até a implementação, testes e manutenção.
-
-Utilizo ferramentas de inteligência artificial como parte do meu processo de desenvolvimento, combinando automação e revisão técnica para criar aplicações funcionais e resolver problemas reais.
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Olá! Eu sou Jonathan Alessandro" />
 </div>
 
+# Olá, eu sou o Jonathan 👋
+
+Desenvolvedor full-stack. Construo sistemas que conectam APIs, automatizam processos e colocam a inteligência artificial para resolver problemas reais, do backend ao app mobile.
+
+Gosto de cuidar do projeto inteiro: arquitetura, integração entre serviços, deploy e manutenção. Uso IA no dia a dia como ferramenta de desenvolvimento, sempre com revisão técnica, para entregar mais rápido sem abrir mão da qualidade.
+
 ---
-
-## ⚙️ Minhas ferramentas e tecnologias favoritas
-
-> Tecnologias e ferramentas que utilizo ou com as quais tenho experiência nos meus projetos.
-
 <div align="center">
 
 <table>
@@ -115,23 +108,19 @@ Utilizo ferramentas de inteligência artificial como parte do meu processo de de
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 No que eu trabalho
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS).
-- 📚 Aprimoramento contínuo em desenvolvimento de software.
-- 🔗 Integração entre APIs e sistemas.
-- 🤖 Inteligência artificial aplicada a soluções reais.
-- ⚙️ Automação de processos e comunicação entre serviços.
-- 🌐 Desenvolvimento web com React, Vite e Tailwind CSS.
-- 📱 Desenvolvimento mobile com React Native e Expo.
-- 🗄️ Experiência com bancos de dados relacionais e Redis.
-- 🐳 Containerização e organização de ambientes com Docker.
+- 🔗 **Integrações:** conecto APIs e sistemas para que os dados fluam sem trabalho manual.
+- 🤖 **IA aplicada:** chatbots e automações que rodam em produção, não só protótipos.
+- 🌐 **Web:** React, Vite e Tailwind no front; Node.js e Express no back.
+- 📱 **Mobile:** apps com React Native e Expo para Android, iOS e Web.
+- 🐳 **Infra:** Docker, Redis e MySQL, com deploy em VPS.
 
 ---
 
 ## 🚀 Projetos e experiências
 
-### 🤖 Central WhatsApp — Liberty
+### 🤖 Central de Atendimento — Liberty
 
 Aplicação web e backend para gerenciamento de atendimento e comunicação via WhatsApp.
 
