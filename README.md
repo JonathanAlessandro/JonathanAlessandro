@@ -10,6 +10,7 @@ Desenvolvedor full-stack. Construo sistemas que conectam APIs, automatizam proce
 Gosto de cuidar do projeto inteiro: arquitetura, integração entre serviços, deploy e manutenção. Uso IA no dia a dia como ferramenta de desenvolvimento, sempre com revisão técnica, para entregar mais rápido sem abrir mão da qualidade.
 
 ---
+
 <div align="center">
 
 <table>
@@ -34,15 +35,19 @@ Gosto de cuidar do projeto inteiro: arquitetura, integração entre serviços, d
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
       <br>React Native
     </td>
+  </tr>
+  <tr>
     <td align="center" width="140">
       <img src="https://cdn.simpleicons.org/expo/9ca3af" width="48" height="48" alt="Expo" />
       <br>Expo
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
@@ -56,11 +61,19 @@ Gosto de cuidar do projeto inteiro: arquitetura, integração entre serviços, d
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
   </tr>
   <tr>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="NoSQL" />
+      <br>NoSQL
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
@@ -75,8 +88,8 @@ Gosto de cuidar do projeto inteiro: arquitetura, integração entre serviços, d
       <br>Nginx
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
   </tr>
 </table>
