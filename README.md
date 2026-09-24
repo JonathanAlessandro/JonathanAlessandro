@@ -21,74 +21,78 @@ Utilizo ferramentas de inteligência artificial como parte do meu processo de de
 
 > Tecnologias e ferramentas que utilizo ou com as quais tenho experiência nos meus projetos.
 
-<table width="100%">
+<div align="center">
+
+<table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
       <br>React Native
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://cdn.simpleicons.org/expo/9ca3af" width="48" height="48" alt="Expo" />
       <br>Expo
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       <br>Express
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
       <br>Vite
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
       <br>Nginx
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
   </tr>
 </table>
+
+</div>
 
 ### 🔗 Integrações e ferramentas
 
