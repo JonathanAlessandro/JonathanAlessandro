@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Olá! Eu sou Jonathan Alessandro" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Olá! Eu sou Jonathan Alessandro" />
-</div>
-
 # Olá, eu sou o Jonathan 👋
 
 Desenvolvedor full-stack. Construo sistemas que conectam APIs, automatizam processos e colocam a inteligência artificial para resolver problemas reais, do backend ao app mobile.
