@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="Olá! Eu sou Jonathan Alessandro" />
+  <img src="./assets/header.svg" alt="Olá, eu sou o Jonathan" width="100%" />
 </div>
 
 # Olá, eu sou o Jonathan 👋
