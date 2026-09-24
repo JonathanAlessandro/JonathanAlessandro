@@ -73,7 +73,7 @@ Gosto de cuidar do projeto inteiro: arquitetura, integração entre serviços, d
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="NoSQL" />
-      <br>NoSQL
+      <br>MongoDB
     </td>
     <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
