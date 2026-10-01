@@ -1,160 +1,83 @@
-
 <div align="center">
-  <img src="./assets/header.svg" alt="Olá, eu sou o Jonathan" width="100%" />
+  <img src="./assets/header.svg" alt="Jonathan Alessandro — Full-stack, IA e automação" width="100%" />
 </div>
 
 # Olá, eu sou o Jonathan 👋
 
-Desenvolvedor full-stack. Construo sistemas que conectam APIs, automatizam processos e colocam a inteligência artificial para resolver problemas reais, do backend ao app mobile.
+**Desenvolvedor full-stack com foco em integrações, IA aplicada e automação.**
 
-Gosto de cuidar do projeto inteiro: arquitetura, integração entre serviços, deploy e manutenção. Uso IA no dia a dia como ferramenta de desenvolvimento, sempre com revisão técnica, para entregar mais rápido sem abrir mão da qualidade.
+Construo sistemas de atendimento, aplicações web e mobile e ferramentas que transformam documentos e dados em informação útil. Trabalho com TypeScript, JavaScript, Python e Kotlin, conectando interfaces, APIs, bancos de dados e serviços externos.
 
----
+Meus projetos incluem comunicação via WhatsApp, plataformas com isolamento por empresa, consulta documental com IA e processamento de dados em lote. Gosto de acompanhar o fluxo completo: modelagem, implementação, testes, implantação e manutenção.
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.simpleicons.org/expo/9ca3af" width="48" height="48" alt="Expo" />
-      <br>Expo
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="NoSQL" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### 🔗 Integrações e ferramentas
+## 🛠️ Tecnologias
 
 <div align="center">
-
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
-
+  <img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,nodejs,react,vite,tailwind,postgres,mysql,redis,docker,nginx,git&perline=7" alt="TypeScript, JavaScript, Python, Kotlin, Node.js, React, Vite, Tailwind CSS, PostgreSQL, MySQL, Redis, Docker, Nginx e Git" />
 </div>
 
-- REST APIs e integração entre sistemas
-- tRPC
-- Drizzle ORM
-- AWS S3
-- WhatsApp e Baileys
-- Meta WhatsApp API
-- React Native WebRTC
-- Vitest
-- esbuild
-- pnpm
+- **Web e APIs:** React, Node.js, Express, tRPC, TanStack Query, Tailwind CSS e Drizzle ORM.
+- **Mobile:** React Native, Expo, WebRTC e Android nativo com Jetpack Compose.
+- **Dados e infraestrutura:** PostgreSQL, MySQL/MariaDB, Redis, Docker e armazenamento compatível com S3, incluindo MinIO e Cloudflare R2.
+- **IA e documentos:** integração com LLMs, recuperação de contexto documental, OCR com Tesseract e extração de PDFs e planilhas.
+- **Integrações e qualidade:** Meta WhatsApp Cloud API, Baileys, Listmonk, Playwright e Vitest.
 
----
+## 🚀 Projetos em destaque
 
-## 👨‍💻 No que eu trabalho
+### 💬 Sprint / Central — atendimento para múltiplas empresas
 
-- 🔗 **Integrações:** conecto APIs e sistemas para que os dados fluam sem trabalho manual.
-- 🤖 **IA aplicada:** chatbots e automações que rodam em produção, não só protótipos.
-- 🌐 **Web:** React, Vite e Tailwind no front; Node.js e Express no back.
-- 📱 **Mobile:** apps com React Native e Expo para Android, iOS e Web.
-- 🐳 **Infra:** Docker, Redis e MySQL, com deploy em VPS.
+Plataforma de atendimento com painel React, API Express/tRPC e processamento assíncrono de mensagens.
 
----
+- Isolamento por empresa com PostgreSQL, Row-Level Security e permissões de acesso.
+- Integração com Meta WhatsApp Cloud API e sessões vinculadas por QR com Baileys.
+- Workers independentes, filas persistidas no PostgreSQL e sinais entre processos via Redis.
+- Atualizações por SSE, auditoria de suporte, retenção de mídias e backups em S3.
+- Frontend de apresentação e autenticação separado, integrado à mesma API.
 
-## 🚀 Projetos e experiências
+**Stack:** TypeScript · React · Express · tRPC · PostgreSQL · Drizzle · Redis · Docker
 
-### 🤖 Central de Atendimento — Liberty
+### 📞 Liberty SAC — central de comunicação
 
-Aplicação web e backend para gerenciamento de atendimento e comunicação via WhatsApp.
+Sistema de atendimento que reúne conversas, filas, contatos, chamadas, relatórios e administração de usuários.
 
-- Backend em Node.js e Express.
-- Frontend em React e Vite.
-- API compartilhada com tRPC.
-- Persistência de dados com MySQL e Drizzle ORM.
-- Redis para comunicação entre processos e filas de trabalho.
-- Integração com WhatsApp e Baileys.
-- Integrações com serviços de armazenamento S3.
-- Docker para execução dos serviços.
+- WhatsApp via Cloud API, coexistência oficial e dispositivo vinculado por QR.
+- Perfis e cargos personalizados, histórico, auditoria e atualizações em tempo real.
+- Processamento de mensagens em workers e armazenamento de mídias e backups no Cloudflare R2.
+- API compartilhada com o aplicativo móvel Liberty App.
 
-### 📱 Liberty App
+**Stack:** TypeScript · React · Node.js · tRPC · MySQL · Redis · Cloudflare R2
 
-Aplicativo mobile desenvolvido com React Native e Expo.
+### 📱 Mobile — Liberty App e Central Android
 
-- React Native e Expo.
-- TypeScript.
-- React Native WebRTC.
-- Notificações e recursos nativos.
-- Suporte a Android, iOS e Web.
-- Build e execução com Docker e Nginx para a versão web.
+Duas abordagens para levar o atendimento ao celular:
 
-### 🔗 Integrações e automações
+- **Liberty App:** React Native e Expo, com conversas, envio de mídias, notificações por SSE, armazenamento seguro da sessão e áudio de chamadas via WebRTC.
+- **Central Android:** Kotlin e Jetpack Compose, com seleção de empresa, filas, histórico, envio de anexos e sessão cifrada com Android Keystore.
 
-Experiência com desenvolvimento de soluções que conectam APIs, processam dados e automatizam tarefas, buscando melhorar fluxos de trabalho e comunicação entre sistemas.
+**Stack:** React Native · Expo · TypeScript · WebRTC · Kotlin · Jetpack Compose
 
----
+### 🤖 LibertyAI — consulta a uma base documental
+
+Chat que indexa PDFs, imagens e planilhas para responder perguntas com contexto e indicação das fontes.
+
+- Extração de texto, reconstrução de tabelas, OCR e leitura visual seletiva de PDFs.
+- Respostas diretas para correspondências estruturadas exatas e uso de LLM para interpretação.
+- Ingestão por upload ou pasta monitorada, autenticação e histórico por usuário.
+- Persistência em MariaDB e armazenamento de documentos em MinIO/S3.
+
+**Stack:** TypeScript · React · Express · tRPC · LLMs · Tesseract · MariaDB · MinIO
+
+### ⚙️ Integrações e automação de dados
+
+- **Enrich CNPJ:** pipeline Python para enriquecimento cadastral via BrasilAPI, descoberta de sites e contatos públicos, deduplicação, retomada de lotes e validação passiva de e-mails.
+- **Automação comercial:** API Node.js para cadastro e sincronização de clientes com Listmonk, integração com CRM e workers de SMS e acompanhamento via WhatsApp.
+- **Coleta de catálogos:** Node.js e Playwright para extrair produtos de supermercados, normalizar preços, deduplicar registros e persistir em MySQL.
+- **Transcrição de documentos:** aplicação para processar cartões de ponto e holerites em PDF, com OCR, revisão em tabela e exportação para Excel.
+
+## 🎯 Como trabalho
+
+- Contratos tipados e separação de responsabilidades entre interface, API e serviços.
+- Autenticação, permissões e isolamento de dados como parte da arquitetura.
+- Processamento assíncrono para mensagens, documentos e tarefas em lote.
+- Testes de regras de negócio, integrações e fluxos de interface.
+- Uso de IA como ferramenta de desenvolvimento, com revisão do código e validação das mudanças.
