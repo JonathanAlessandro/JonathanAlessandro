@@ -2,7 +2,19 @@
   <img src="./assets/header.svg" alt="Jonathan Alessandro — Full-stack, IA e automação" width="100%" />
 </div>
 
-# Olá, eu sou o Jonathan 👋
+<div align="center">
+
+### Olá, eu sou o Jonathan 👋
+
+**APLICAÇÕES WEB · MOBILE · INTEGRAÇÕES · IA**
+
+<img src="./assets/code-flow.gif" width="640" alt="Animação de código e dados fluindo entre aplicações conectadas" />
+
+<sub>Interfaces, APIs e dados trabalhando juntos.</sub>
+
+</div>
+
+---
 
 **Desenvolvedor full-stack com foco em integrações, IA aplicada e automação.**
 
@@ -13,7 +25,16 @@ Meus projetos incluem comunicação via WhatsApp, plataformas com isolamento por
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,nodejs,react,vite,tailwind,postgres,mysql,redis,docker,nginx,git&perline=7" alt="TypeScript, JavaScript, Python, Kotlin, Node.js, React, Vite, Tailwind CSS, PostgreSQL, MySQL, Redis, Docker, Nginx e Git" />
+
+<p><strong>Linguagens</strong></p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin&amp;theme=dark" height="48" alt="Linguagens: ts,js,python,kotlin" />
+
+<p><strong>Web e mobile</strong></p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind,androidstudio&amp;theme=dark" height="48" alt="Web e mobile: react,nodejs,express,vite,tailwind,androidstudio" />
+
+<p><strong>Dados e infraestrutura</strong></p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,git&amp;theme=dark" height="48" alt="Dados e infraestrutura: postgres,mysql,redis,docker,nginx,git" />
+
 </div>
 
 - **Web e APIs:** React, Node.js, Express, tRPC, TanStack Query, Tailwind CSS e Drizzle ORM.
@@ -21,6 +42,8 @@ Meus projetos incluem comunicação via WhatsApp, plataformas com isolamento por
 - **Dados e infraestrutura:** PostgreSQL, MySQL/MariaDB, Redis, Docker e armazenamento compatível com S3, incluindo MinIO e Cloudflare R2.
 - **IA e documentos:** integração com LLMs, recuperação de contexto documental, OCR com Tesseract e extração de PDFs e planilhas.
 - **Integrações e qualidade:** Meta WhatsApp Cloud API, Baileys, Listmonk, Playwright e Vitest.
+
+---
 
 ## 🚀 Projetos em destaque
 
@@ -74,6 +97,8 @@ Chat que indexa PDFs, imagens e planilhas para responder perguntas com contexto 
 - **Coleta de catálogos:** Node.js e Playwright para extrair produtos de supermercados, normalizar preços, deduplicar registros e persistir em MySQL.
 - **Transcrição de documentos:** aplicação para processar cartões de ponto e holerites em PDF, com OCR, revisão em tabela e exportação para Excel.
 
+---
+
 ## 🎯 Como trabalho
 
 - Contratos tipados e separação de responsabilidades entre interface, API e serviços.
@@ -81,3 +106,13 @@ Chat que indexa PDFs, imagens e planilhas para responder perguntas com contexto 
 - Processamento assíncrono para mensagens, documentos e tarefas em lote.
 - Testes de regras de negócio, integrações e fluxos de interface.
 - Uso de IA como ferramenta de desenvolvimento, com revisão do código e validação das mudanças.
+
+<div align="center">
+
+---
+
+**Do problema à solução. Do backend ao app.**
+
+<sub>Jonathan Alessandro · Full-stack, IA aplicada e automação</sub>
+
+</div>
