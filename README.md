@@ -8,10 +8,6 @@
 
 **APLICAÇÕES WEB · MOBILE · INTEGRAÇÕES · IA**
 
-<img src="./assets/code-flow.gif" width="640" alt="Animação de código e dados fluindo entre aplicações conectadas" />
-
-<sub>Interfaces, APIs e dados trabalhando juntos.</sub>
-
 </div>
 
 ---
